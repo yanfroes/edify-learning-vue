@@ -1,52 +1,37 @@
 <template>
   <section class="pricing-one pricing-page ">
         <div class="container">
+          <div class="block-title">
+              <h2 class="block-title__title">A platform for you</h2><!-- /.block-title__title -->
+          </div><!-- /.block-title -->
             <div class="row">
                 <div class="col-lg-4">
                     <div class="pricing-one__single">
                         <div class="pricing-one__inner">
-                            <h2 class="pricing-one__price">$20.00 </h2><!-- /.pricing-one__price -->
-                            <p class="pricing-one__name">basic pack</p><!-- /.pricing-one__name -->
+                            <p class="pricing-one__name">Teach what you love</p><!-- /.pricing-one__name -->
                             <ul class="pricing-one__list list-unstyled">
-                                <li>3 Full Courses</li>
-                                <li>Lifetime free support</li>
-                                <li>Upgrate options</li>
-                                <li>9 Days Time</li>
+                                <li>You've mastered a field of learning. Now take what you've learned and share it with the world.</li>
                             </ul><!-- /.pricing-one__list -->
-                            <a href="#" class="thm-btn pricing-one__btn">Choose Plan</a><!-- /.thm-btn -->
-                            <p class="pricing-one__tag-line">No hidden charges!</p><!-- /.pricing-one__tag-line -->
                         </div><!-- /.pricing-one__inner -->
                     </div><!-- /.pricing-one__single -->
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
                     <div class="pricing-one__single">
                         <div class="pricing-one__inner">
-                            <h2 class="pricing-one__price">$30.00 </h2><!-- /.pricing-one__price -->
-                            <p class="pricing-one__name">medium pack</p><!-- /.pricing-one__name -->
+                            <p class="pricing-one__name">Work with the best</p><!-- /.pricing-one__name -->
                             <ul class="pricing-one__list list-unstyled">
-                                <li>3 Full Courses</li>
-                                <li>Lifetime free support</li>
-                                <li>Upgrate options</li>
-                                <li>9 Days Time</li>
+                                <li>Partner with the best institutions of higher learning in the world to spread quality education. </li>
                             </ul><!-- /.pricing-one__list -->
-                            <a href="#" class="thm-btn pricing-one__btn">Choose Plan</a><!-- /.thm-btn -->
-                            <p class="pricing-one__tag-line">No hidden charges!</p><!-- /.pricing-one__tag-line -->
                         </div><!-- /.pricing-one__inner -->
                     </div><!-- /.pricing-one__single -->
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
                     <div class="pricing-one__single">
                         <div class="pricing-one__inner">
-                            <h2 class="pricing-one__price">$40.00 </h2><!-- /.pricing-one__price -->
-                            <p class="pricing-one__name">premium pack</p><!-- /.pricing-one__name -->
+                            <p class="pricing-one__name">Your time, your money</p><!-- /.pricing-one__name -->
                             <ul class="pricing-one__list list-unstyled">
-                                <li>3 Full Courses</li>
-                                <li>Lifetime free support</li>
-                                <li>Upgrate options</li>
-                                <li>9 Days Time</li>
+                                <li>Earn supplemental income working as an independent contractor with a very flexible schedule. </li>
                             </ul><!-- /.pricing-one__list -->
-                            <a href="#" class="thm-btn pricing-one__btn">Choose Plan</a><!-- /.thm-btn -->
-                            <p class="pricing-one__tag-line">No hidden charges!</p><!-- /.pricing-one__tag-line -->
                         </div><!-- /.pricing-one__inner -->
                     </div><!-- /.pricing-one__single -->
                 </div><!-- /.col-lg-4 -->

@@ -4,10 +4,6 @@ export default {
   /*
   ** Headers of the page
   */
-  target: 'static',
-  router: {
-    base: '/edify-learning-vue/'
-  },
   head: {
     title: process.env.npm_package_name || '',
     meta: [

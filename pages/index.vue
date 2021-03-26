@@ -2,7 +2,11 @@
   <div>
     <NavThree />
     <BannerThree />
+    <AboutTwo />
+    <CallToActionTwo />
+    <PricingPage />
     <CourseCatThree />
+    <Faq />
     <Testimonial />
     <ClientsLogoOne />
     <CallToActionFive />
@@ -14,6 +18,10 @@
   import Footer from "../components/Footer";
   import BannerThree from "../components/BannerThree";
   import CourseCatThree from "../components/CourseCatThree";
+  import AboutTwo from "../components/AboutTwo";
+  import CallToActionTwo from "../components/CallToActionTwo";
+  import PricingPage from "../components/PricingPage";
+  import Faq from "../components/Faq";
   import Testimonial from "../components/Testimonial";
   import ClientsLogoOne from "../components/ClientsLogoOne";
   import CallToActionFive from "../components/CallToActionFive";
@@ -24,6 +32,10 @@
       NavThree,
       BannerThree,
       CourseCatThree,
+      AboutTwo,
+      CallToActionTwo,
+      PricingPage,
+      Faq,
       Testimonial,
       ClientsLogoOne,
       CallToActionFive,
