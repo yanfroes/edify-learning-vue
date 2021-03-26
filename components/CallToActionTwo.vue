@@ -1,4 +1,5 @@
 <template>
+  <section>
   <div class="cta-two">
       <div class="container-fluid">
           <div class="row no-gutters">
@@ -25,6 +26,7 @@
           </div><!-- /.row no-gutters -->
       </div><!-- /.container-fluid -->
   </div>
+  </section>
 </template>
 
 <script>

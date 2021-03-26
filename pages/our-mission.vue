@@ -1,8 +1,8 @@
 <template>
   <div>
     <NavThree />
-    <PageHeader title="About Us" />
-    <CourseDetails />
+    <PageHeader title="Our Mission" />
+    <OurMission />
     <Footer />
   </div>
 </template>
@@ -10,9 +10,9 @@
   import PageHeader from "../components/PageHeader";
   import NavThree from "../components/NavThree";
   import Footer from "../components/Footer";
-  import CourseDetails from "../components/CourseDetails";
+  import OurMission from "../components/OurMission";
   export default {
-    components: {CourseDetails, Footer, NavThree, PageHeader},
+    components: {OurMission, Footer, NavThree, PageHeader},
     head(){
       return {
         title: "Edify | About Us"

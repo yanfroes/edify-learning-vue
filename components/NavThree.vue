@@ -29,10 +29,10 @@
                                                   <a href="/">Home</a>
                                               </li>
                                               <li>
-                                                  <nuxt-link to="/">About Us</nuxt-link>
+                                                  <nuxt-link to="/course-details">About Us</nuxt-link>
                                               </li>
                                               <li>
-                                                  <nuxt-link to="/">Our Mission</nuxt-link>
+                                                  <nuxt-link to="/our-mission">Our Mission</nuxt-link>
                                               </li>
                                               <li>
                                                   <nuxt-link to="/teachers">Our People</nuxt-link>
